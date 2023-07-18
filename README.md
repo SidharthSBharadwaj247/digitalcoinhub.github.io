@@ -1,1 +1,1 @@
-# digitalcoinhub.github.io
+# cyptocurrency-website-starter
